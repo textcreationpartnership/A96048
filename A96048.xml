@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Earl of Warwick relating the taking of all the forts, and 16 pieces of ordnance from the malignant Cornishmen that had before besieged the city of Exeter : together with an apologie made by an English officer of qualitie for leaving the Irish wars : declaring the designe at this time now on foot to reconcile the English and Irish together, and by their joynt power having expelled the Scotch and Irish Protestants, to bring their popish forces against the Parliament.</title>
+            <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96048</idno>
+            <idno type="STC">Wing W1002A</idno>
+            <idno type="STC">ESTC R42768</idno>
+            <idno type="EEBO-CITATION">38875731</idno>
+            <idno type="OCLC">ocm 38875731</idno>
+            <idno type="VID">152487</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152487)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2298:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Earl of Warwick relating the taking of all the forts, and 16 pieces of ordnance from the malignant Cornishmen that had before besieged the city of Exeter : together with an apologie made by an English officer of qualitie for leaving the Irish wars : declaring the designe at this time now on foot to reconcile the English and Irish together, and by their joynt power having expelled the Scotch and Irish Protestants, to bring their popish forces against the Parliament.</title>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+                  <author>English officer of qualitie. Apologie for leaving the Irish Wars.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Partridge, and Laurence Blaiklock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 29, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: Willaim Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152487:1" rendition="simple:additions"/>
+            <p>A LETTER FROM The Earl of <hi>WARWICK:</hi> RELATING The taking of all the Forts, and 16 Pieces of Ordnance, from the Malignant Corniſh<g ref="char:EOLhyphen"/>men, that had before beſieged the City of EXETER.</p>
+            <p>TOGETHER WITH An Apologie made by an Engliſh Officer of Qualitie, for leaving the Iriſh Wars:</p>
+            <p>Declaring the Deſigne at this time now on foot to reconcile the Engliſh and Iriſh together:</p>
+            <p>And by their joynt Power having expelled the Scotch and Iriſh Proteſtants, to bring their Popiſh Forces againſt the PARLIAMENT.</p>
+            <p>This is Licenſed, and Entred into the Regiſter-Book of the Company of <hi>Stationers,</hi> according to Order.</p>
+            <p>LONDON: Printed for <hi>John Partridge,</hi> and <hi>Laurence Blaiklock. July</hi> 29. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:152487:2"/>
+            <pb n="1" facs="tcp:152487:2"/>
+            <head>A LETTER FROM <hi>THE EARL OF</hi> WARWICK.</head>
+            <opener>
+               <salute>Maſter <hi>Smith,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have received Yours of the 11. of this Moneth, and am now in ſuch haſte, as I cannot ſay much to you: I am here at <hi>Topſham Barre,</hi> and have be<g ref="char:EOLhyphen"/>gun
+<pb n="2" facs="tcp:152487:3"/>by Gods bleſſing well yeſterday, ha<g ref="char:EOLhyphen"/>ving taken all the Forts on both ſides the River, and Sixteen Peece of Ordnance, and now have ſent up ſome ſmall Ships to ſecure the River, with Eight Hundred Land and Sea-men, I hope this day, if the rain hinder not, to give a good puſh to the Buſineſſe I came for; I yeſterday took one of their Companies, Captain <hi>White</hi> by name, a great Papiſt, and un<g ref="char:EOLhyphen"/>der the Marqueſſe <hi>Hertfords</hi> Commiſ<g ref="char:EOLhyphen"/>ſion, all his Popiſh trinkets about him. I have little Force with me, onely the <hi>James, Swift ſure, Martin, Cap<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Dicke,</hi> 2. <hi>Whelps,</hi> who are out of Victualls, and Danske alſo, ſo that it is not poſsible for me to ſend to <hi>Carrickfergus:</hi> Nay, I ſhall be puzzled how to ſend any Ship hence for a Convoy, with Ammunition to <hi>Briſtoll,</hi> for want of Shipping: There<g ref="char:EOLhyphen"/>fore you muſt ſend them from <hi>London</hi> or <hi>Briſtoll.</hi>
+            </p>
+            <p>Captain <hi>Batten</hi> likewiſe Writes for more Ships, for fear of the <hi>Danes,</hi> and
+<pb n="3" facs="tcp:152487:3"/>ſome leſſer ones, to guard that Coaſt, I have none: I <hi>pray acquaint</hi> the Commit<g ref="char:EOLhyphen"/>tee with it, they muſt ſet out more Ships, if they will imploy ſo many, for in my life, I was never ſo put to it for want of Shipping, and there is but three on the Weſt end of the Channell, which is much too little.</p>
+            <p>What our Ships do at <hi>Guernſey</hi> and <hi>Jerſie,</hi> I know not: Aſſoon as I have done here, I muſt for the Iſle of <hi>Weight,</hi> to repleniſh the ſmall Ships with Victualls, and my ſelf. I pray give order that their Victualls meet us there, that are to come to them and to us. Captain <hi>Bowen</hi> is at <hi>Portſmouth</hi> ſetting a new Main-Maſt, <hi>So<g ref="char:EOLhyphen"/>maſter</hi> in the Downes, went after the <hi>Marmaduke</hi> to carry her in to you.</p>
+            <p>And where you write that the <hi>French</hi> Merchants deſire a Ship to go from hence to <hi>Morlays,</hi> to convoy ſome Veſſells they have there laden with Linnen, for this Kingdom, aſſoon as I have diſpatched
+<pb n="4" facs="tcp:152487:4"/>this Buſineſſe for <hi>Exceſter,</hi> I will endea<g ref="char:EOLhyphen"/>vour to ſend ſome one of thoſe few Ships that are with me, if I can finde any of them ſo well furniſhed with Victualls for ſuch a Voyage.</p>
+            <p>As touching that buſineſſe of the <hi>Hol<g ref="char:EOLhyphen"/>landers,</hi> and my Writing to <hi>Trump,</hi> I was by their Order to receive an Anſwer from <hi>Trump;</hi> And if the Committee received not ſatisfaction upon <hi>Trumps</hi> Letter to me, then I was to Write to Maſter <hi>Strickland:</hi> You have ſent me the Letter onely in <hi>Dutch,</hi> which I under<g ref="char:EOLhyphen"/>ſtand not.</p>
+            <p>I pray excuſe me to my Vice-Admi<g ref="char:EOLhyphen"/>rall, for not Writing to him at this time, and acquaint him, That I have no ſmall Ships for him, for the <hi>Lucie</hi> and the <hi>Samuel,</hi> which I purpoſed for him, I ſent them long ſince to the Coaſt of <hi>Holland,</hi> with Directions when they had done that Service, to repair to him, and if they be not gone to him, you muſt ſpeak to the
+<pb n="5" facs="tcp:152487:4"/>Committee to ſupply him with ſome ſmall Ships from <hi>London,</hi> for I have not any.</p>
+            <p>And ſo having no more for the pre<g ref="char:EOLhyphen"/>ſent, being in great haſte,</p>
+            <closer>
+               <dateline>Aboard the <hi>Swift-ſure</hi> at <hi>Topſham-Bar,</hi> 
+                  <date>the 19 July 1643.</date>
+               </dateline>
+               <signed>I remain Your aſſured lo<g ref="char:EOLhyphen"/>ving friend: <hi>Warwicke.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="apology">
+            <pb n="6" facs="tcp:152487:5" rendition="simple:additions"/>
+            <head>AN APOLOGIE MADE <hi>By an</hi> Engliſh Officer <hi>of Qualitie, for leaving the</hi> Iriſh <hi>Wars: Declaring</hi> THE DESIGNE At this time now on foot to reconcile the <hi>ENGLISH and IRISH together:</hi> And by their joynt Power having expelled the SCOTCH and IRISH Proteſtants, to bring their Popiſh Forces againſt The PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">I</seg> 
+               <hi>Perceive that unleſſe a Lord Lieutenant, well affected to Religion, be ſent over, or another Lord Generall, That all the Engliſh in</hi> Ireland <hi>muſt come to ruine:</hi>
+            </p>
+            <pb n="7" facs="tcp:152487:5"/>
+            <p>For</p>
+            <p n="1">1. All ſuch as are well affected to Religion, and againſt the Re<g ref="char:EOLhyphen"/>bells, are diſgraced with aſperſions of being Factious, and other lies deviſed againſt them, as againſt my Lord <hi>Lyſle</hi> at <hi>Roſſe</hi> Battell, <hi>That he ſhould call out and offer ten pound for a guide to Duncannon,</hi> which is well known to be a falſe blur caſt upon him for his forward<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p n="2">2. Many ſuch, and the beſt of them are removed out of their places, as Sir <hi>William Parſons</hi> from being Lord Juſtice, Colonell <hi>Monke</hi> from being Governour of <hi>Dublin</hi> City, Doctor <hi>Teate</hi> from being Governour of the Colledge.</p>
+            <p n="3">3. They are not entruſted with Imployments of weight, but ſome Commander or other in chief muſt be ever ſent along, to ſee that too much ſervice be not done at one time.</p>
+            <p n="4">4. Or elſe they are that by ſome Iriſh ſpirit, that ſeems to be with us, but in heart againſt us, as Sir <hi>Laurence Carye,</hi> at the Town of <hi>Swords,</hi> and Sir <hi>Charles Coote</hi> at <hi>Trym.</hi>
+            </p>
+            <p n="5">5. Others thruſt into Offices who are tooth and nail for the Iriſh, as the L. <hi>Lambert</hi> to be Governor of <hi>Dublin</hi> City, the Biſhop of <hi>Meath</hi> Governor of the Colledge, Sir <hi>George Wentworth,</hi> a deadly profeſt enemy to the Parliament, to be chief Martiall, Captain <hi>Bar<g ref="char:EOLhyphen"/>roughs,</hi> an Iriſh man, to be Provoſt-Martiall, who hanged <hi>Joh. Ste<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>,</hi> a luſty able Engliſh man, who being forced by meer neceſſity, took 10. d. worth of bread from two Iriſh.</p>
+            <p n="6">6. Such Iriſh Papiſts as are known to have betrayed our Armies, as did the Earl of <hi>Ormonds</hi> Troop in the Voyage to <hi>Drohedah,</hi> and ſuch as are caught in the fact robbing our Engliſh peoples goods, are nevertheleſſe ſuffered to eſcape, and to continue Troopers ſtill.</p>
+            <p n="7">7. Such as have been taken in open Rebellion, and committed to the Caſtle, many of them are ſuffered to go at large, and we meet them daily in the ſtreets.</p>
+            <pb n="8" facs="tcp:152487:6"/>
+            <p n="8">8. Many of theſe that have been Indighted at the Kings-Bench for notorious Rebels, by ſet Juries of their friends, and ſome con<g ref="char:EOLhyphen"/>trary to their Office and Oath, have been heard to plead for them in open Court, how honeſt and good houſe keepers they have been.</p>
+            <p n="9">9. The chief Havens, which at firſt might have eaſily been ta<g ref="char:EOLhyphen"/>ken, as <hi>Wexford,</hi> was leaſt thought on, where the enemies have recei<g ref="char:EOLhyphen"/>ved more Ammunition and ſupplies then we have done: At the Battell of <hi>Roſſe,</hi> when our men were entring the breach, and many fell, being ſhot out of the Town, they called for the Fire-balls to clear the way, but they were forgot, and none brought out with the Armie.</p>
+            <p n="10">10. Before our Armies go forth the Rebells have aye warning to look to themſelves, and notice which way our Forces are to go; By whom?</p>
+            <p n="11">11. The Iriſh Papiſts, though they have been often caught ſend<g ref="char:EOLhyphen"/>ing Letters and Ammunition to the Rebells, and to harbour them, permitted to live amongſt us, yea ſuffered to eſcape with little or no ceſſe and preſſe, our Engliſh are intollerably burthened, and many of them forced thereby to break and depart for <hi>England.</hi>
+            </p>
+            <p n="12">12. Such are protected, under pretence of ſending relief to our Garriſons, as are known to murther our Engliſh when they finde opportunity.</p>
+            <p n="13">13. After divers of our men have been ſhot and ſlain, in beſie<g ref="char:EOLhyphen"/>ging Caſtles, the Rebells have fled by night, not a man of them hurt, our men have ſometimes been charged under pain of death not to diſcharge at them.</p>
+            <p n="14">14. Many priſoners have broken priſon and eſcaped, as hath been reported by ſome, but by others it hath been ſaid, <hi>They have opened the door with a ſilver key.</hi>
+            </p>
+            <p n="15">15. An Engliſh Serjeant about <hi>Whitſontide</hi> laſt, hearing there was a Prieſt in Bridge-ſtreet ſaying Maſſe, went according to an Order
+<pb n="9" facs="tcp:152487:6"/>of the Board to take him, but the Prieſt having notice was gone, the Officer and his Souldiers ſeized only upon his Veſtments and trum<g ref="char:EOLhyphen"/>peries left behinde; their friend, the L. <hi>Lambert,</hi> hearing thereof, im<g ref="char:EOLhyphen"/>priſons the ſouldiers, &amp; ſwore ſome of them ſhould be hangd for it.</p>
+            <p n="16">16. Our beſt Miniſters, as D. <hi>Harding</hi> and M. <hi>Yates,</hi> are ſilenced, that we have hardly any left to keep a faſt with any life.</p>
+            <p n="17">17. An Engliſh Papiſt (called <hi>James Room:</hi>) in S. <hi>Patricks</hi> ſtreet <hi>Dublin,</hi> being Plundered by the Souldiers, for ſuffering ſongs in his houſe made by the Iriſh women, wherein they curſed our Armies, triumphed for the loſſe of <hi>Ballanakell,</hi> and prayed for the Rebels pro<g ref="char:EOLhyphen"/>ſperity: whereto he ſaid, Amen; and bade them to ſing it again: had his liberty and goods reſtored him, by the L. <hi>Lambert:</hi> and the Soul<g ref="char:EOLhyphen"/>diers were committed.</p>
+            <p n="18">18. <hi>Ballanckell,</hi> the very key of our Garriſons in <hi>Leinſter,</hi> where<g ref="char:EOLhyphen"/>in were 300 valiant men, who did as much as men could do, were neglected 5 whole weeks together, and no help ſent them, till they were inforced to yeeld; to the utter diſheartning of the reſt of our Garriſons.</p>
+            <p n="19">19. Our Armies are uſually ſent forth, ſometimes on Sundayes, ſometimes on Faſt-dayes, after this ſin hath been openly Preached againſt in the hearing of the Lord Generall and other Commanders.</p>
+            <p n="20">20. All the Pillage ſeized on by the Officers and the famiſhed Souldiers, when great preys have been taken, were not permitted to kill a beaſt to relieve their hunger.</p>
+            <p n="21">21. The generall abounding of all open ſins without any re<g ref="char:EOLhyphen"/>ſtraint.</p>
+            <p n="22">22. The L. <hi>Taffe</hi> hath been ſuffered to come and go to the Rebels with directions, which few of the Privy Counſell have been ac<g ref="char:EOLhyphen"/>quainted with.</p>
+            <p n="23">23. Some of our Preachers have declaimed againſt the bloody
+<pb n="10" facs="tcp:152487:7"/>Rebels cruelties, thereby to excite the Souldiers to reſolution in pro<g ref="char:EOLhyphen"/>ſecution of the wars againſt them, have been declaimed againſt by others for bloody Preaching and Praying, and charged to deſiſt from ſuch extravaganeies.</p>
+            <p n="24">24. Some have directly and profeſſedly Preached for mercy to be ſhewed to theſe mercileſſe Rebels, as Arch-Deacon <hi>Buckley,</hi> and the Biſhop of <hi>Meath,</hi> who ſaid in a Sermon before the State, <hi>That four ſorts of them ſhould be ſaved;</hi> viz. 1. <hi>Children.</hi> 2. <hi>Women.</hi> 3. <hi>Labourers.</hi> 4. <hi>All that reſiſt not:</hi> Yet women are worſe then men.</p>
+            <p n="25">25. A faction is fomented among our ſelves to take off our Soul<g ref="char:EOLhyphen"/>diers from the Rebells, and to turn their edge againſt the Parlia<g ref="char:EOLhyphen"/>ment, and to this end tend many of the Sermons that have been Preached many a day before the State, containing nothing but moſt bitter Invectives againſt the Schiſmatiques (as they call them) and hardly a word is to be heard to proceed from any of them againſt the Rebels, except the Biſhop of <hi>Down,</hi> who glanced againſt them at the firſt, and yet in the end affirmed <hi>The Schiſmatiques to be worſe then them.</hi>
+            </p>
+            <p n="26">26. Likewiſe M. <hi>Yates</hi> being called before the Arch-Biſhop for a Sermon he Preached, after ſome conference, he taxing the Arch-Biſhop for taking a Lecture from him, and giving it to a common Drunkard; reply was made by the Arch-Deacon <hi>Buckley</hi> his ſon, that was there preſent, That Lecturers had more diſturb'd the peace of the Church and Common-wealth, then ever they did good: and it had been well if never none had been: The Biſhop likewiſe ſaid, That ſo long as he had power, there ſhould be none in his Juriſ<g ref="char:EOLhyphen"/>diction.</p>
+            <p n="27">27. Alſo Captain <hi>Lucas</hi> coming to <hi>Dublin,</hi> to convey ſome corn by ſea thither, having been often at the Councell, to demand relief for him and his men (it being often by them promiſed) was demanded, If whether he was able, as alſo whether he was wil<g ref="char:EOLhyphen"/>ling to fetch in Captain <hi>Plunket:</hi> He anſwered, He was able he thought: but Captain <hi>Plunket</hi> being imployed by the Parliament,
+<pb n="11" facs="tcp:152487:7"/>as well as he, he could by no means betray that truſt in him repoſed; and he demanded, what would be if h-e ſhould ſinke him? They an<g ref="char:EOLhyphen"/>ſwered. They were able to ſecure him: But he anſwered, If they were able to ſecure him here, yet they could no <hi>An England,</hi> where his wife and children and eſtate is; As alſo he was forced to diſ<g ref="char:EOLhyphen"/>charge 30 of his men for want of means, and thereby unable for that ſervice.</p>
+            <p n="28">28. Our laſt Army going forth in May, continuing forth 50 weeks, when we expected great ſervice to be done, there was done no<g ref="char:EOLhyphen"/>thing. It was ſo ordered, that the Battering pieces which ſhould have gone with them, came not to them till a fortnight after. Then we expected that <hi>Ballaſhanan</hi> Caſtle, that hath cut off ſo many of our men, ſhould have been taken: but it was protected by whom not known, though Captain <hi>Armſtrong</hi> at the ſame time had like to have been ſlain by ſome of them: And likewiſe <hi>Allens</hi> Caſtle, which hath done much miſchief to our men: In it all the Re<g ref="char:EOLhyphen"/>bels wealth thereabout was, when the men and pieces were drawn up to it, they ſhewed a Paper Protection by Sir <hi>Arthur Loftus,</hi> Governour of the <hi>Naas.</hi> Likewiſe, the ſame night, our men Quartering neer the ſaid Caſtle, their Horſes were ſtollen by them, and fetcht from them by violence by the Souldiers, who with the Officers alſo, were ready to run mad for anger that they might not take it.</p>
+            <p n="29">29. The day before the Earl of <hi>Ormond</hi> went to the Treaty, being the 22 of <hi>June,</hi> the chief Proteſtants of the City were called before the Councell, to know if they would give 10000. or have a Ceſſa<g ref="char:EOLhyphen"/>tion: They anſwered, They were utterly unabled, and were grieved to hear the Officers complain, and to ſee the Souldiers go bare-foot and bare-legg'd, and the City undone; and would be loath to ſee them that had kill'd their friends and kinsfolks, walks <hi>Dublin</hi> ſtreets, yet durſt not call them Rebels. Whereupon they were diſ<g ref="char:EOLhyphen"/>miſt, and the next day they went to treat.</p>
+            <p n="30">30. The Parliament, with all thoſe that are employed by them for the good of the Kingdom, are notoriouſly abuſed, to the great
+<pb n="12" facs="tcp:152487:8"/>grief of all good people; as may appear by the baſe uſage of Capt. <hi>Smith,</hi> captain of the <hi>Swallow,</hi> by captain <hi>Flower,</hi> a profeſt enemy to the Parliament, giving him many opprobrious ſpeeches, calling him Traytor and Round-head, &amp;c. urging him to draw, ſo that he was fain to withdraw himſelf, fearing further danger.</p>
+            <p n="31">31. But a more inhumane carriage was ſhewed to the Maſter of the <hi>Swallow,</hi> a faithfull and honeſt man in his place, who coming to the Globe Tavern in Caſtle-ſtreet, <hi>Dublin,</hi> to ſee ſome of his friends, who there called for ſome Sack, and was anſwered by the maſter of the Tavern, That he had none for ſuch Rebels and Traytors, &amp;c. as he was; and threatned, if he would not be gone, he would fetch a Guard of Muskettiers to bring him thence: Thence going to the Fleece Tavern, and there demanding a bed for his money, was an<g ref="char:EOLhyphen"/>ſwered as at the Globe, and a Guard of Muskettiers was ſent for by the Vintner, maſter of the houſe, with a Corporall, who by force brought him to the Guard, of which Lievtenant <hi>Congreave</hi> was captain, a deadly enemy to the Parliament, who preſently, in moſt haſe manner, reviled him: an honeſt neighbour, who being there be<g ref="char:EOLhyphen"/>fore, having ſent for ſome Beer for the Souldiers; the ſaid Lievte<g ref="char:EOLhyphen"/>nant drank a Health to the confuſion of the Parliament, whom he called Rogues and Traytors, and would have forced the Maſter to have drank it: but he anſwered, They were honeſt men, and he would rather die then drink it: whereupon the Lievtenant anſwer<g ref="char:EOLhyphen"/>ed, He would make him confeſſe that either the Parliament, or Lords Juſtices were Rogues and Traytors, before the morning, or he would hang him: the Maſter replyed, They might do with him what they pleaſed, he being in their hands; and that they were but boyes; and he an ancient man: Whereupon they with Match drew his neck and his heels together, in ſo violent a manner, as though they would have killed him; but by the intreaty of the honeſt man there preſent, he was unbound, and cauſed to lie upon the boards all night: from whence he was the next morning by the Serjeant of the Guard releaſt: The Councell have likewiſe given order for the ap<g ref="char:EOLhyphen"/>prehending of the captain of the <hi>Swallow,</hi> if by any means they can come by him.</p>
+            <pb n="13" facs="tcp:152487:8"/>
+            <p n="32">32. A Treaty of Peace, or ceſſation of Arms is in agitation, now the Rebels are driven to ſuch exigencies, as that they ſee now they cannot longer ſubſiſt otherwiſe, are likely to periſh for want, if our Souldiers might be ſuffered to pillage them, and now it is well known they want Powder. The intent of it is, ſo far as all honeſt, loyall, and religious Subjects conjecture, The ruine of all the <hi>Britiſh</hi> Nation, as appears by the relation of Miſtris <hi>Dillon,</hi> who is a good Proteſtant, and her husband a Papiſt among the Rebels both of them, ſhe heard them amongſt themſelves to ſay; <hi>That their intent is, After this Treaty, they will draw down their Forces to the Scots, and cut them off; then that being finiſhed, they would cut off the Eng<g ref="char:EOLhyphen"/>liſh.</hi> And alſo a moſt execrable Oath after this is concluded on to be adminiſtred to all the Proteſtants that are well affected to the Parliament; which if they refuſe to take, they ſhall be all pillaged.</p>
+            <p>The premiſes conſidered, I conceive that this may ſuffice to make mine excuſe.</p>
+            <p>
+               <hi>The Lord look down upon his poor Church in</hi> Ireland.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152487:9"/>
+            <pb facs="tcp:152487:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
